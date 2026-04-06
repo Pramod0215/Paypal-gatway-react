@@ -20,7 +20,7 @@ class App extends React.Component {
           <h2> Buy this Mercedes at a giveaway price (Super Cheap) </h2>
           {/* <img alt="Mercedes G-Wagon" src={Car} /> */}
           <h3>
-            <b>$200</b>
+            <b>$100</b>
           </h3>
           <button onClick={this.showPaypalButtons}> Pay </button>
         </div>
